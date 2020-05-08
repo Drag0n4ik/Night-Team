@@ -8,8 +8,7 @@
 	display: block;
 	margin: auto;
 	background: url(img/1.jpg);
-	background-repeat: no-repeat;
-	background-repeat: no-repeat;
+	
 	background-attachment: fixed;
 	cursor: default;
 }
