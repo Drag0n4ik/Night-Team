@@ -1,7 +1,7 @@
 
 @media only screen and (min-width : 320px) and (max-width : 479px) {
 	.container{
-		height: 950px;
+		height: 1150px;
 	}
 	.NT{
 	font-size: 4em;
@@ -62,7 +62,7 @@
 
 @media only screen and (min-width : 480px) and (max-width : 639px) {
 	.container{
-		height: 950px;
+		height: 1150px;
 	}
 	.NT{
 	font-size: 4.5em;
