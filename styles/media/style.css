@@ -1,0 +1,406 @@
+
+@media only screen and (min-width : 320px) and (max-width : 479px) {
+	.container{
+		height: 900px;
+	}
+	.NT{
+	font-size: 4em;
+	padding-top: 60px;
+	}
+	.headerTect{
+	width: 90%;
+	padding-top: 60px;
+	font-size: 1.3em;
+	}
+	nav{
+		width: 90%;
+	}
+	.block_1{
+		margin-left: 2px;
+	}
+	.block_1 , .block_2  , .block_3{
+		width: 30%;
+		
+	}
+	
+	.block_0,.block{
+		margin-left: 15%;
+		margin-top: 5px; 
+		width: 70%;
+	}
+	.block_1 p, .block_2 p , .block_3 p{
+		font-size: 1em;
+		padding-top: 7px;
+	}
+	.block_0 p, .block p{
+		font-size: 1em;
+		padding-top: 5px;
+	}
+	.block_Text h2,.block2_Text h2{
+		font-size: 1.2em;
+	}
+	.block2_Text h3{
+		font-size: 1.1em;
+	}
+	.otr ,.Lamperyj ,.Krazbic ,.Krafter,.Master{
+		width: 90%;
+	}
+	.otr h2,.Lamperyj h2,.Krazbic h2,.Krafter h2{
+		font-size: 1.1em;
+	}
+	.otr_text,.Lamperyj_text,.Krazbic_text,.Krafter_text{
+		width: 100%;
+		font-size: 1.1em;
+	}
+
+	.otr_text i,.Lamperyj_text i,.Krazbic_text i,.Krafter_text i{
+		font-size: 1.05em;
+	}
+	
+}
+
+
+@media only screen and (min-width : 480px) and (max-width : 639px) {
+	
+	.NT{
+	font-size: 4.5em;
+	padding-top: 60px;
+	}
+	.headerTect{
+	width: 80%;
+	padding-top: 60px;
+	font-size: 1.5em;
+	}
+	nav{
+		width: 70%;
+	}
+	.block_1{
+		margin-left: 10px;
+	}
+	.block_1 , .block_2  , .block_3{
+		width: 30%;
+		
+	}
+	.block_0{
+		width: 11%;
+		margin: 0.2% 0% 0% 3%;
+	}
+	.block{
+		width: 19%;
+	}
+	.block_1 p, .block_2 p , .block_3 p{
+		font-size: 1.2em;
+		padding-top: 3px;
+	}
+	.block_0 p, .block p{
+		font-size: 1em;
+		padding-top: 5px;
+	}
+	.block_Text h2,.block2_Text h2{
+		font-size: 1.8em;
+	}
+	.block2_Text h3{
+		font-size: 1.5em;
+	}
+	.otr ,.Lamperyj ,.Krazbic ,.Krafter,.Master{
+		width: 90%;
+	}
+	.otr h2,.Lamperyj h2,.Krazbic h2,.Krafter h2{
+		font-size: 1.3em;
+	}
+	.otr_text,.Lamperyj_text,.Krazbic_text,.Krafter_text{
+		width: 100%;
+		font-size: 1.1em;
+	}
+
+	.otr_text i,.Lamperyj_text i,.Krazbic_text i,.Krafter_text i{
+		font-size: 1.05em;
+	}
+
+}
+
+@media only screen and (min-width : 640px) and (max-width : 767px) {
+	
+	.NT{
+	font-size: 4.5em;
+	padding-top: 60px;
+	}
+	.headerTect{
+	width: 50%;
+	padding-top: 60px;
+	font-size: 1.5em;
+	}
+	nav{
+		width: 70%;
+	}
+	.block_1{
+		margin-left: 70px;
+	}
+	.block_1 , .block_2  , .block_3{
+		width: 20%;
+		
+	}
+	.block_0{
+		width: 11%;
+		margin: 0.2% 0% 0% 12%;
+	}
+	.block{
+		width: 15%;
+	}
+	.block_1 p, .block_2 p , .block_3 p{
+		font-size: 1.3em;
+		padding-top: 0px;
+	}
+	.block_0 p, .block p{
+		font-size: 1.1em;
+		padding-top: 5px;
+	}
+	.block_Text h2,.block2_Text h2{
+		font-size: 1.8em;
+	}
+	.block2_Text h3{
+		font-size: 1.5em;
+	}
+	.otr h2,.Lamperyj h2,.Krazbic h2,.Krafter h2{
+		font-size: 1.3em;
+	}
+	.otr_text,.Lamperyj_text,.Krazbic_text,.Krafter_text{
+		width: 100%;
+		font-size: 1.1em;
+	}
+
+	.otr_text i,.Lamperyj_text i,.Krazbic_text i,.Krafter_text i{
+		font-size: 1.05em;
+	}
+
+}
+
+
+@media only screen and (min-width : 768px) and (max-width : 1023px) {
+		
+	.NT{
+	font-size: 4.5em;
+	padding-top: 60px;
+	}
+	.headerTect{
+	width: 50%;
+	padding-top: 60px;
+	font-size: 1.5em;
+	}
+	nav{
+		width: 70%;
+	}
+	.block_1{
+		margin-left: 100px;
+	}
+	.block_1 , .block_2  , .block_3{
+		width: 20%;
+		
+	}
+	.block_0{
+		width: 11%;
+		margin: 0.2% 0% 0% 12%;
+	}
+	.block{
+		width: 15%;
+	}
+	.block_1 p, .block_2 p , .block_3 p{
+		font-size: 1.3em;
+		padding-top: 0px;
+	}
+	.block_0 p, .block p{
+		font-size: 1.1em;
+		padding-top: 5px;
+	}
+	.block_Text h2,.block2_Text h2{
+		font-size: 1.8em;
+	}
+	.block2_Text h3{
+		font-size: 1.5em;
+	}
+	.otr h2,.Lamperyj h2,.Krazbic h2,.Krafter h2{
+		font-size: 1.3em;
+	}
+	.otr_text,.Lamperyj_text,.Krazbic_text,.Krafter_text{
+		width: 100%;
+		font-size: 1.1em;
+	}
+
+	.otr_text i,.Lamperyj_text i,.Krazbic_text i,.Krafter_text i{
+		font-size: 1.05em;
+	}
+
+}
+
+
+@media only screen and (min-width : 1024px) and (max-width : 1199px) {
+	
+	.NT{
+	font-size: 6em;
+	padding-top: 60px;
+	}
+	.headerTect{
+	width: 40%;
+	padding-top: 60px;
+	font-size: 2em;
+	}
+	.block_0{
+		width: 11%;
+		margin: 0.2% 0% 0% 17.3%;
+	}
+	.block{
+		width: 15%;
+	}
+	.block_1 p, .block_2 p , .block_3 p{
+		font-size: 1.3em;
+		padding-top: 0px;
+	}
+	.block_0 p, .block p{
+		font-size: 1.1em;
+		padding-top: 5px;
+	}
+	.block_Text h2,.block2_Text h2{
+		font-size: 1.8em;
+	}
+	.block2_Text h3{
+		font-size: 1.5em;
+	}
+	.otr h2,.Lamperyj h2,.Krazbic h2,.Krafter h2{
+		font-size: 1.3em;
+	}
+	.otr_text,.Lamperyj_text,.Krazbic_text,.Krafter_text{
+		font-size: 1.2em;
+	}
+
+	.otr_text i,.Lamperyj_text i,.Krazbic_text i,.Krafter_text i{
+		font-size: 1.05em;
+	}
+
+}
+
+
+@media only screen and (min-width : 1200px) and (max-width : 1529px) {
+
+	.NT{
+	font-size: 6em;
+	padding-top: 60px;
+	}
+	.headerTect{
+	width: 40%;
+	padding-top: 60px;
+	font-size: 2em;
+	}
+	.block_0{
+		width: 11%;
+		margin: 0.2% 0% 0% 20%;
+	}
+	.block{
+		width: 12%;
+	}
+	.block_1 p, .block_2 p , .block_3 p{
+		font-size: 1.3em;
+		padding-top: 0px;
+	}
+	.block_0 p, .block p{
+		font-size: 1.1em;
+		padding-top: 5px;
+	}
+	.block_Text h2,.block2_Text h2{
+		font-size: 1.8em;
+	}
+	.block2_Text h3{
+		font-size: 1.5em;
+	}
+	.otr h2,.Lamperyj h2,.Krazbic h2,.Krafter h2{
+		font-size: 1.3em;
+	}
+	.otr_text,.Lamperyj_text,.Krazbic_text,.Krafter_text{
+		font-size: 1.2em;
+	}
+
+	.otr_text i,.Lamperyj_text i,.Krazbic_text i,.Krafter_text i{
+		font-size: 1.05em;
+	}
+
+}
+
+
+
+@media only screen and (min-width : 1530px) and (max-width : 1919px) {
+	
+	.NT{
+	font-size: 9em;
+	padding-top: 60px;
+	}
+	.headerTect{
+	width: 40%;
+	padding-top: 60px;
+	font-size: 2.3em;
+	}
+	.block_0{
+		width: 11%;
+		margin: 0.2% 0% 0% 20%;
+	}
+	.block{
+		width: 11%;
+	}
+	.block_1 p, .block_2 p , .block_3 p{
+		font-size: 1.5em;
+		padding-top: 0px;
+	}
+	.block_0 p, .block p{
+		font-size: 1.25em;
+		padding-top: 0px;
+	}
+	.block_Text h2,.block2_Text h2{
+		font-size: 1.8em;
+	}
+	.block2_Text h3{
+		font-size: 1.5em;
+	}
+	.otr_text,.Lamperyj_text,.Krazbic_text,.Krafter_text{
+		font-size: 1.5em;
+	}
+	.otr_text i,.Lamperyj_text i,.Krazbic_text i,.Krafter_text i{
+		font-size: 1.05em;
+	}
+
+}
+@media only screen and (min-width : 1920px) {
+	.NT{
+	font-size: 10em;
+	padding-top: 60px;
+	}
+	.headerTect{
+	width: 40%;
+	padding-top: 60px;
+	font-size: 2.5em;
+	}
+	.block_0{
+		width: 11%;
+		margin: 0.2% 0% 0% 20%;
+	}
+	.block{
+		width: 11%;
+	}
+	.block_1 p, .block_2 p , .block_3 p{
+		font-size: 1.5em;
+		padding-top: 0px;
+	}
+	.block_0 p, .block p{
+		font-size: 1.5em;
+		padding-top: 0px;
+	}
+	.block_Text h2,.block2_Text h2{
+		font-size: 1.8em;
+	}
+	.block2_Text h3{
+		font-size: 1.5em;
+	}
+	.otr_text,.Lamperyj_text,.Krazbic_text,.Krafter_text{
+		font-size: 1.5em;
+	}
+	.otr_text i,.Lamperyj_text i,.Krazbic_text i,.Krafter_text i{
+		font-size: 1.05em;
+	}
+}

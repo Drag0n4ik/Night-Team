@@ -1,0 +1,244 @@
+*{
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+
+.topContainer{
+	display: block;
+	margin: auto;
+	background: url(media/img/1920.jpg);
+	background-repeat: no-repeat;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	cursor: default;
+}
+.header{
+	
+	width: 100%;
+	height: 100vh;
+}
+.NT{
+	text-align: center;
+	font-size: 6em;
+	padding-top: 40px;
+	font-family: 'Caveat', cursive;
+	font-family: 'Dancing Script', cursive;
+	color: white;
+
+}
+.headerTect{
+	display: block;
+	margin: auto;
+	width: 30%;
+	padding-top: 50px;
+	font-size: 1.5em;
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	color: white;
+}
+.container{
+	width: 100%;
+	height: 780px;
+	
+}
+nav{
+	display: block;
+	width: 50%;
+	margin: 5px auto;
+	
+}
+.block_1{
+	display: inline-block;
+	margin-left: 85px;
+
+	width: 25%;
+	height: 50px;
+	transition: border-style 5s ease;
+	border-radius: 50px;
+	border-color: black;
+	border-style:  dashed;
+	cursor: pointer;
+	background: #181B1B;
+	color: white;
+	text-align: center;
+}
+.block_2{
+	display: inline-block;
+	margin: auto;
+	width: 25%;
+	height: 50px;
+	transition: border-style 5s ease;
+	border-radius: 50px;
+	border-color: black;
+	border-bottom: dashed;
+	border-style:  dashed;
+	cursor: pointer;
+	background: #181B1B;
+	color: white;
+	text-align: center;
+}
+.block_3{
+	display: inline-block;
+	margin: auto;
+	width: 25%;
+	height: 50px;
+	transition: border-style 5s ease;
+	border-radius: 50px;
+	border-color: black;
+	border-style:  dashed;
+	cursor: pointer;
+	background: #181B1B;
+	color: white;
+	text-align: center;
+}
+.block_1:hover,.block_2:hover,.block_3:hover{
+	transition-duration:.2s;
+	border-color: white;
+	
+	border-style:dashed;
+}
+.block_1 p, .block_2 p , .block_3 p{
+	padding-top: 10px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.block_Text{
+	display: none;
+	width: 70%;
+	margin: 20px auto;
+
+}
+.block_Text h2{
+	text-align: center;
+}
+.block_Text{
+	display: none;
+	width: 70%;
+	margin: 20px auto;
+
+}
+.block_Text h2{
+	text-align: center;
+}
+.block2_Text{
+	
+	text-align: center;
+	width: 70%;
+	margin: 50px auto;
+
+}
+.block2_Text h2{
+	text-align: center;
+}
+.block3_Text{
+	width: 100%;
+	display: block;
+	
+}
+.nav{
+	display: none;
+	width: 100%;
+	
+}
+.block_0{
+	width: 10%;
+	height: 50px;
+	margin: 0.2% 0% 0% 24% ;
+	transition: border-style 5s ease;
+	border-radius: 50px;
+	border-color: black;
+	border-style:  dashed;
+	cursor: pointer;
+	background: #181B1B;
+	color: white;
+	text-align: center;
+	height: 50px;
+	display: inline-block;
+}
+.block{
+	width: 10%;
+	height: 50px;
+	transition: border-style 5s ease;
+	border-radius: 50px;
+	border-color: black;
+	border-style:  dashed;
+	cursor: pointer;
+	background: #181B1B;
+	color: white;
+	text-align: center;
+	height: 50px;
+	display: inline-block;
+}
+.block_0:hover,.block:hover{
+	transition-duration:.2s;
+	border-color: white;
+	
+	border-style:dashed;
+}
+.block_0 p, .block p{
+	padding-top: 10px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.Master{
+	display: none;
+	margin: 10px auto;
+	width: 70%;
+
+
+}
+.Master h2{
+	text-align: center;
+}
+.Krazbic{
+	display: none;
+	margin: 10px auto;
+	width: 70%;
+
+
+}
+.Krazbic h2{
+	text-align: center;
+}
+
+.Krafter{
+	display: none;
+	margin: 10px auto;
+	width: 70%;
+
+
+}
+.Krafter h2{
+	text-align: center;
+}
+
+.Lamperyj{
+	display: none;
+	margin: 10px auto;
+	width: 70%;
+
+
+}
+.Lamperyj h2{
+	text-align: center;
+}
+
+.otr{
+	display: none;
+	margin: 10px auto;
+	width: 70%;
+
+
+}
+.otr h2{
+	text-align: center;
+}
+.otr_text,.Lamperyj_text,.Krazbic_text,.Krafter_text{
+	display: block;
+	margin: auto;
+	width: 60%;
+	text-align: justify;
+}
+.otr_text i,.Lamperyj_text i,.Krazbic_text i,.Krafter_text i{
+	float: right;
+	padding-top: 5px;
+}
